@@ -12,6 +12,7 @@ import {
   MenuList,
 } from "@chakra-ui/react";
 import { FaBars, FaUserTie } from "react-icons/fa";
+import { Link } from "react-router-dom";
 const TopNav = ({ title, onOpen }) => {
   return (
     <Box px="4" bg="white">
@@ -34,7 +35,9 @@ const TopNav = ({ title, onOpen }) => {
           </MenuButton>
           <MenuList>
             <MenuItem>Logout</MenuItem>
-            <MenuItem>Support</MenuItem>
+            <Link to="/support">
+              <MenuItem>Support</MenuItem>
+            </Link>
           </MenuList>
         </Menu>
       </HStack>
