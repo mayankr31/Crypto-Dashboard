@@ -2,6 +2,12 @@
 # Crypto Dashboard
 Crypto Dashboard is a sleek and modern web application built with **React** and **Vite**, designed to showcase a user interface for managing cryptocurrency transactions. The project is a UI-only implementation, without backend functionality.
 
+![Screenshot 2024-12-03 132028](https://github.com/user-attachments/assets/fc7bc472-81fa-4cdd-a927-2e292a9cfaac)
+![Screenshot 2024-12-03 132125](https://github.com/user-attachments/assets/d6856247-be38-4a5f-8bcc-95e9eb195ea2)
+![Screenshot 2024-12-03 132140](https://github.com/user-attachments/assets/9beda432-777d-4b03-92e0-a7b533e48d01)
+
+
+
 ## Getting Started
 Follow these instructions to set up the project locally.
 
